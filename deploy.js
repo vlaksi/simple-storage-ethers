@@ -9,7 +9,7 @@ async function main() {
     'http://127.0.0.1:7545  '
   );
   let wallet = new ethers.Wallet(
-    '28f0d6ecd27b25b2aabc5e881c716927ccd9c4ded0a2d19f86e668a6a6a9dcea',
+    '367493441a2d413b4476b050d5dcfe9c1bdde98e5c4d9ece505e862d835dfbf2',
     provider
   );
   // const encryptedJson = fs.readFileSync("./.encryptedKey.json", "utf8");
